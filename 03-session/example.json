@@ -1,0 +1,18 @@
+{
+	"name": "Hannah A. Patellis",
+	"phone": 3215062757,
+	"hobbies": [
+		"cross stitching",
+		"traveling",
+		"cats"
+	],
+	"bestfriend": {
+		"name": "Cj Jordan",
+		"location": "Atlanta, GA",
+		"hobbies": [
+			"working",
+			"animals",
+			"eating vegan food"
+		]
+	}
+}
